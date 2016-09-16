@@ -1631,4 +1631,5 @@ class Payment extends CI_Model {
 
         return $default_product_rate;
     }
+    
 }
